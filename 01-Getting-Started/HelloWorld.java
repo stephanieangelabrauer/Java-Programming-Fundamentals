@@ -1,7 +1,9 @@
-          /**
-             This is Hello World, my first Java program.
-             @author Stephanie-Angela Brauer
-          */
+/**
+
+	This is Hello World, my first Java program.
+	@author Stephanie-Angela Brauer
+	
+*/
 
 public class HelloWorld {
   public static void main (String args[]) {
